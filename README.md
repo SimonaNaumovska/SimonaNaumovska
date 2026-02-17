@@ -48,14 +48,6 @@ Built with React and TypeScript using modular component architecture.
 
 ---
 
-## 📊 GitHub Stats
-
-![Simona's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonaNaumovska&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonaNaumovska&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Connect
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-URL)
+[LinkedIn](https://www.linkedin.com/in/simona-naumovska/)
