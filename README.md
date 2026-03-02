@@ -38,15 +38,6 @@ Currently building modern web applications with React and TypeScript, with empha
 
 ---
 
-## 📌 Featured Project
-
-### 🏠 Smart Home Management Web Application
-Web app for managing household inventory and task tracking.  
-Built with React and TypeScript using modular component architecture.
-
-🔗 Repository: https://github.com/SimonaNaumovska/smart-home-management
-
----
 
 ## 🌐 Connect
 
