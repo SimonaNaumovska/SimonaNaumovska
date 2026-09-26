@@ -37,10 +37,6 @@ Persistent project intelligence for humans and AI engineering agents.
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SimonaNaumovska&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub activity graph" />
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SimonaNaumovska/SimonaNaumovska/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SimonaNaumovska/SimonaNaumovska/output/github-snake.svg" />
