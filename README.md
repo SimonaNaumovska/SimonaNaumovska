@@ -1,54 +1,50 @@
-# Hi, I'm Simona 👋
+<p align="center">
+  <img src="./assets/profile-dashboard.svg" width="100%" alt="Simona Naumovska software systems engineering dashboard" />
+</p>
 
-### Software Systems Engineer
+<p align="center">
+  <a href="https://www.linkedin.com/in/simona-naumovska/"><img src="https://img.shields.io/badge/LinkedIn-Simona%20Naumovska-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/AWS-Certified-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Certified" />
+  <img src="https://img.shields.io/badge/Python-Engineering-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-JVM-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java JVM" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+</p>
 
-I work on software systems that are complex, poorly documented, long-lived, or hard to change safely.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-My current focus is on **software architecture, reverse engineering, legacy modernization, developer tooling, and AI-assisted engineering**.
+### Current build
 
----
+**Project OS**
 
-## What I work on
+Persistent project intelligence for humans and AI engineering agents.
 
-- Reverse-engineering undocumented codebases, databases, and business logic
-- Modernizing legacy systems without losing behavior that still matters
-- Building developer tools for repository analysis, project context, and engineering workflows
-- Designing evidence-backed project knowledge and context systems
-- Exploring practical AI-assisted engineering with explicit boundaries and verifiable source material
-- Turning messy project state into structured architecture, documentation, tasks, and execution plans
+`evidence` `context` `project knowledge` `execution` `verification`
 
----
+</td>
+<td width="50%" valign="top">
 
-## Current work
+### Engineering focus
 
-I’m currently building **Project OS**, a system for persistent project intelligence across humans and AI engineering agents.
+`reverse engineering` `software architecture`
 
-The project focuses on repository discovery, evidence-backed findings, durable project knowledge, context restoration, and bounded execution workflows.
+`legacy modernization` `developer tooling`
 
-I also work on legacy-system modernization and independent product projects where architecture, tooling, and real-world constraints matter more than framework choice.
+`AI assisted engineering` `automation`
 
----
+</td>
+</tr>
+</table>
 
-## Engineering toolkit
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SimonaNaumovska&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub activity graph" />
+</p>
 
-**Languages**  
-Python · Java / JVM · TypeScript · JavaScript · SQL
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SimonaNaumovska/SimonaNaumovska/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SimonaNaumovska/SimonaNaumovska/output/github-snake.svg" />
+  <img alt="GitHub contribution animation" src="https://raw.githubusercontent.com/SimonaNaumovska/SimonaNaumovska/output/github-snake.svg" width="100%" />
+</picture>
 
-**Application & data**  
-React · Spring Boot · REST APIs · PostgreSQL · relational data modeling
-
-**Cloud & tooling**  
-AWS · Git · GitHub · testing · automation · technical documentation · MCP/tool integrations
-
----
-
-## Certifications
-
-- AWS Certified Solutions Architect, Associate
-- Oracle Certified Associate, Java SE 8 Programmer
-
----
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/simona-naumovska/)
+<sub>AWS Certified Solutions Architect, Associate · Oracle Certified Associate, Java SE 8 Programmer</sub>
