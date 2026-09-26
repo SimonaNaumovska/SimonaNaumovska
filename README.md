@@ -44,7 +44,7 @@ AWS · Git · GitHub · testing · automation · technical documentation · MCP/
 
 ## Certifications
 
-- AWS Certified Solutions Architect – Associate
+- AWS Certified Solutions Architect, Associate
 - Oracle Certified Associate, Java SE 8 Programmer
 
 ---
