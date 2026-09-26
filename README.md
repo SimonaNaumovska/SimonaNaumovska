@@ -1,43 +1,72 @@
 # Hi, I'm Simona 👋
 
-💻 Software Engineer | Backend & Web Applications  
-☁️ AWS Certified Solutions Architect  
-☕ Oracle Certified Java SE 8 Programmer  
+### Software Systems Engineer · AI-Native Product Builder
+
+> **I build systems that understand systems — then use that understanding to make software easier to evolve.**
+
+My work sits at the intersection of **software architecture, reverse engineering, developer tooling, AI-assisted engineering, and product design**.
+
+I’m most interested in difficult software problems: large or undocumented codebases, fragmented project knowledge, legacy systems that still matter, and engineering workflows where humans and AI need a reliable shared understanding of what is actually true.
 
 ---
 
-## 🚀 Tech Stack
+## 🧠 What I work on
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-000000?style=for-the-badge)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Database & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- **Software intelligence** — turning repositories, code, tests, documentation, and runtime evidence into structured project understanding
+- **AI-native engineering systems** — designing workflows where AI agents can work with durable context, explicit boundaries, and auditable evidence
+- **Reverse engineering & software archaeology** — reconstructing undocumented business logic, data flows, and system behavior
+- **Legacy modernization** — understanding what must be preserved before deciding what should be replaced
+- **Developer tooling** — repository analysis, context systems, automation, MCP/tool integrations, and engineering infrastructure
+- **Product engineering** — moving from ambiguity to architecture, implementation, validation, and an executable roadmap
 
 ---
 
-## 🧠 About Me
+## 🔬 How I think about engineering
 
-Engineer focused on building reliable backend systems and scalable web applications.
+```text
+Evidence before inference.
+Understand before rewriting.
+Deterministic core before AI magic.
+Make important state explicit, durable, and auditable.
+Use AI for leverage — not as a substitute for source of truth.
+```
 
-Experience includes:
-- Designing and implementing REST APIs  
-- Working with relational databases  
-- Debugging complex production systems  
-- Reverse-engineering undocumented logic  
-- Writing structured technical documentation  
-
-Currently building modern web applications with React and TypeScript, with emphasis on clean architecture and maintainable code.
+I like codebases with no map.
 
 ---
 
+## 🚧 Current direction
+
+I’m currently exploring how to build **persistent project intelligence for humans and AI engineering agents** — systems that can discover a codebase, preserve what has been learned, distinguish facts from inference, restore the right context, and support bounded execution without losing project truth between sessions.
+
+Alongside that, I work on **legacy-system modernization**, product prototypes, and practical software that connects architecture with real operational constraints.
+
+---
+
+## 🛠 Engineering toolkit
+
+**Languages**  
+Python · Modern Java / JVM · TypeScript · JavaScript · SQL
+
+**Application & data**  
+React · Spring Boot · REST APIs · PostgreSQL · relational data modeling
+
+**Cloud & engineering**  
+AWS · Git · GitHub · automation · testing · technical documentation
+
+**AI & developer infrastructure**  
+AI-assisted development · agent workflows · MCP/tool integrations · retrieval & context systems · repository intelligence
+
+Technology changes. The part I care about is choosing the right abstraction, understanding the system underneath it, and leaving the next engineer with more clarity than I found.
+
+---
+
+## 🎓 Foundations
+
+- ☁️ **AWS Certified Solutions Architect – Associate**
+- ☕ **Oracle Certified Associate, Java SE 8 Programmer** — an early Java foundation; my engineering work is not tied to Java 8
+
+---
 
 ## 🌐 Connect
 
